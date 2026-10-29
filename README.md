@@ -1,4 +1,6 @@
 # 🔐 SecureVault – Secure File Encryption and Decryption System
+## 🚀 Live Demo
+[Open SecureVault Application](https://securevault-z45bprm6pucghgsql7p3kk.streamlit.app/)
 
 ## 📌 Description
 SecureVault is a Python-based cybersecurity project designed to protect confidential files using AES-256-GCM encryption. It uses Scrypt for password-based key derivation and provides a simple Streamlit web interface for encrypting and decrypting files securely.
